@@ -4,7 +4,6 @@ This repository contains the template of a stylesheet for the events manager cal
 Tested on top of the original events manager stylesheet version 5.973 and in combination with the following shortcode:
 ```
 [events_calendar long_events=1 full=1]
-
 ```
 
 ![Style preview](preview.png)
