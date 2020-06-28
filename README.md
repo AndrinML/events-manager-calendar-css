@@ -3,4 +3,4 @@ This repository contains the template of a stylesheet for the events calendar (h
 
 Tested on top of the original events manager stylesheet version 5.973.
 
-![Style preview](calendar_preview.png)
+![Style preview](preview.png)
